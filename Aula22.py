@@ -79,3 +79,4 @@ i = 1
 while i <= numero:
   print(i, end=" ")
   i += 1
+  
